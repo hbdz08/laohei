@@ -6,7 +6,7 @@ Vue.use(Router)
 
 const router = new Router({
   mode: 'history',
-  base: process.env.BASE_URL,
+  base: '/',
   scrollBehavior: (to, from, savedPosition) => {
     if (to.hash) return { selector: to.hash }
     if (savedPosition) return savedPosition
@@ -23,12 +23,12 @@ const router = new Router({
           name: 'Home',
           component: () => import('@/views/home/Index.vue'),
         },
-        {
-          path: 'pro',
-          name: 'Pro',
-          component: () => import('@/views/pro/Index.vue'),
-          meta: { src: require('@/assets/pro.jpg') },
-        },
+        // {
+        //   path: 'pro',
+        //   name: 'Pro',
+        //   component: () => import('@/views/pro/Index.vue'),
+        //   meta: { src: require('@/assets/pro.jpg') },
+        // },
       ],
     },
 
