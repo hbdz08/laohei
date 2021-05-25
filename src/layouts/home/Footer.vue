@@ -8,6 +8,7 @@
     <v-container>
       <v-row>
         <v-col
+          class="text-center text-md-left"
           cols="12"
           md="6"
         >
@@ -51,9 +52,21 @@
     data: () => ({
 
       result: [{
-        social: '加入QQ群',
-        href: 'https://qm.qq.com/cgi-bin/qm/qr?k=YpfueL5nCiCz4ZO5XjVFCEmjbSWLiQMS&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="老黑私服-传奇1群" title="老黑私服-传奇1群"',
-      }],
+                 social: '加入QQ一群(92147936)',
+                 href: 'https://jq.qq.com/?_wv=1027&k=8JCNwFDW',
+               },
+               {
+                 social: '加入QQ二群(62577500)',
+                 href: 'https://jq.qq.com/?_wv=1027&k=7q2WH0wL',
+               },
+               {
+                 social: '加入QQ三群(974358312)',
+                 href: 'https://jq.qq.com/?_wv=1027&k=Zvo6qV3W',
+               },
+               {
+                 social: '加入QQ四群(450876464)',
+                 href: 'https://qm.qq.com/cgi-bin/qm/qr?k=YpfueL5nCiCz4ZO5XjVFCEmjbSWLiQMS&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="老黑私服-传奇1群" title="老黑私服-传奇1群"',
+               }],
     }),
   }
 </script>
