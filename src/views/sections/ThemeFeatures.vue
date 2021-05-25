@@ -14,7 +14,7 @@
         href="https://ftp.bmp.ovh/imgs/2021/05/e2b7a4a6b80f789e.jpg"
         target="_blank"
       >
-        点我联系客服微信（获取沙捐码）
+        点我关注微信公众号（获取沙捐码）
         <v-icon
           right
           dark

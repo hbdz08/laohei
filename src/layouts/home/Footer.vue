@@ -60,8 +60,8 @@
                  href: 'https://jq.qq.com/?_wv=1027&k=7q2WH0wL',
                },
                {
-                 social: '加入QQ三群(974358312)',
-                 href: 'https://jq.qq.com/?_wv=1027&k=Zvo6qV3W',
+                 social: '加入QQ三群(28451417)',
+                 href: 'https://jq.qq.com/?_wv=1027&k=Jdu14ehU',
                },
                {
                  social: '加入QQ四群(450876464)',
