@@ -2,7 +2,6 @@
   <v-theme-provider dark>
     <section
       id="GamesWmsl"
-
       space="56"
     >
       <v-img
