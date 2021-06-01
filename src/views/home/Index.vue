@@ -17,7 +17,7 @@
       LoadSections([
         'hero',
         'theme-features',
-        // 'gameIntroduction',
+        'GamesWmsl',
         // 'features',
         // 'affiliates',
         // 'social-media',

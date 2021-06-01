@@ -120,7 +120,6 @@
     },
     mounted () {
       getList().then(respone => {
-        console.log(respone.data.data)
         this.data = respone.data.data
       })
     },
