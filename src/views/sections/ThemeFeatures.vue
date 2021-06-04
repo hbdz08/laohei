@@ -11,7 +11,7 @@
       <v-btn
         color="red"
         class="ma-4 white--text"
-        href="https://ftp.bmp.ovh/imgs/2021/05/e2b7a4a6b80f789e.jpg"
+        href="https://hbdz08.cn/img/20210520232356.jpg"
         target="_blank"
       >
         点我关注微信公众号（获取沙捐码）
