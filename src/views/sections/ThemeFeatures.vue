@@ -116,10 +116,19 @@
     data () {
       return {
         data: null,
+        listQuery: {
+          domain: 3,
+        },
       }
     },
     mounted () {
-      getList().then(respone => {
+      const base = window.location.host
+      console.log(base)
+
+      if (base === 'kslaohei.com') {
+        this.listQuery.domain = 1
+      }
+      getList(this.listQuery).then(respone => {
         this.data = respone.data.data
       })
     },
