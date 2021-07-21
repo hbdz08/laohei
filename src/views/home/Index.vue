@@ -1,6 +1,6 @@
 
 <script>
-  // Extensions
+  //  Extensions
   import View from '@/views/View'
 
   // Mixins
