@@ -125,7 +125,7 @@
       const base = window.location.host
       console.log(base)
 
-      if (base === 'kslaohei.com' || base === 'kslaohei.cn') {
+      if (base === 'kslaohei.com' || base === 'laoheisf.com') {
         this.listQuery.domain = 1
       }
       getList(this.listQuery).then(respone => {
