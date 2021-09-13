@@ -58,12 +58,14 @@
             <td
               style="color:#ff5200;"
             >
-              <div v-if="item.openTime != ''">
-                {{ item.openTime }}
-              </div>
-              <div v-if="item.version != ''">
-                {{ item.version }}
-              </div>
+              <div
+                v-if="item.openTime != ''"
+                v-html="item.openTime "
+              />
+              <div
+                v-if="item.version != ''"
+                v-html="item.version "
+              />
             </td>
             <td
               class="state-color"
