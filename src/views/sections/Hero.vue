@@ -16,15 +16,12 @@
         >
           <base-subheading
             weight="regular"
-            title=" 土豪私人订制 开新区 开新版本 专门为您订制服务 "
+            title=" 专业手游定制 开新区 开新版本 专门为您订制服务 "
           />
-          <base-subheading
-            weight="regular"
-            title=" 微信:KSsflaohei "
-          />
+
           <base-heading
             size="text-h2"
-            title="欢迎来到老黑私服"
+            title="欢迎来到老黑手游"
             weight="medium"
           />
 
@@ -48,12 +45,6 @@
               联系QQ客服
             </base-btn>
             <span class="font-weight-bold ml-6 mr-4 my-4" />
-            <base-btn
-              href="http://newcz1.61card.com/Recharge/Group/dhx"
-              target="_blank"
-            >
-              在线充值
-            </base-btn>
           </div>
         </v-responsive>
       </v-container>

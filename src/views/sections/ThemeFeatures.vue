@@ -4,10 +4,8 @@
       title="[老黑版本介绍] 《倾情推荐所有版本》"
       style="color:red"
     >
-      自动捡取 动收 绝不隐藏爆率 小消费 大激情 散人也能逆袭
-      <br>
-      沙捐赞助免费 散人好发育
-      <br>
+      老黑精品手游，经典耐玩，为回馈广大玩家，每周推出一个免费顶赞沙娟的端游版本以供娱乐
+
       <v-btn
         color="red"
         class="ma-4 white--text"
@@ -94,12 +92,16 @@
       </v-simple-table>
       <div class="py-8" />
       <base-section-heading
-        title="回馈长期光顾老黑旗下版本的所有老铁每个版本充值玩家,每个充值账号充值都可以转新区"
+        title="回馈长期光顾老黑旗下版本的所有老铁每个版本充值的玩家,每个充值账号充值都可以转新区"
         style="color:red"
       />
 
       <base-section-heading
-        title="关于充值玩家转区联系客服 不支持沙捐版本，版本统一游戏内充。"
+        title="关于充值玩家转区联系客服 不支持沙捐版本，版本统一游戏内充"
+        style="color:red"
+      />
+      <base-section-heading
+        title="本站尊重知识产权，如果我们无意侵犯了您的权益，请告知我们"
         style="color:red"
       />
     </v-container>

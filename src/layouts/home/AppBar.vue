@@ -9,10 +9,10 @@
     >
       <base-img
 
-        :src="require(`@/assets/logo-${$vuetify.theme.isDark ? 'dark' : 'light'}.png`)"
+        :src="require(`@/assets/1620887491630.png`)"
         class="mr-3 hidden-xs-only"
         contain
-        max-width="130"
+        max-width="100"
         width="100%"
       />
 
@@ -62,7 +62,7 @@
       drawer: null,
       items: [
         // '首页',
-        // '充值入口',
+        // '充��入叄1�7',
       ],
     }),
   }
